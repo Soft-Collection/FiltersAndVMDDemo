@@ -3,9 +3,9 @@ Debug
 Release
 FiltersAndVMDDemo.sdf
 FiltersAndVMDDemo.opensdf
-Common\Debug
-Common\Release
-FFMpeg\ffmpeg-20160310-win32\Debug
-FFMpeg\ffmpeg-20160310-win32\Release
-VMDFL\Debug
-VMDFL\Release
+Common/Debug
+Common/Release
+FFMpeg/ffmpeg-20160310-win32/Debug
+FFMpeg/ffmpeg-20160310-win32/Release
+VMDFL/Debug
+VMDFL/Release
